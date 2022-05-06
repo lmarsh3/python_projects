@@ -1,3 +1,6 @@
+# python program that prompts user to enter number between 1 to 10
+# keeps user guessing until they get it right
+
 import random # import random function to use random numbers
 
 def guess(x):
@@ -10,7 +13,7 @@ def guess(x):
             print("Guess again!!! Too low.")
         elif guess > random_number:
             print("Guess again!!! Too high.")
-    print(f"Yay!!! You guessed the right number. {random_number} is the correct number")
+    print(f"Yay!!! You guessed the right number. {random_number} is the correct number.")
 
 guess(10)
 
