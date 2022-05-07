@@ -9,6 +9,7 @@ previous_num = 0
 
 print('Printing current and previous number sum in a range(10)')
 
+# range of 10. Similar to range(1, 11)
 for i in range(10):
     print(f'Current Number {i} Previous Number {previous_num} Sum: {previous_num + i} ')
     previous_num = i
