@@ -1,4 +1,4 @@
-# Exercise 2 - Print the sum of the current number and the previos number
+# Exercise 2 - Print the sum of the current number and the previous number
 # STEPS
 # 1. Create a variable called previous_num and assign it to 0
 # 2. Iterate the first 10 numbers one by one using for loop and range() function
