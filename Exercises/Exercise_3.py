@@ -3,7 +3,7 @@
 # Python input() function to accept string from a user
 # Next, iterate each character of a string using for loop and range() function.
 # Use start = 0, stop = string length - 1, step = 2 (the step is 2 because we only want even index numbers)
-# in each iteration of a loop, use []
+# in each iteration of a loop, use [i]
 
 # input from user
 my_string = input("Please enter string: ")
