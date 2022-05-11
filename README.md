@@ -18,5 +18,6 @@ Exercise 2 - Print the sum of the current number and the previous number
 
 Alternate Exercise 2 - Created with range (1, 11) and sum calculation done before printing
 
-Exercise 3 - Print characters from a string that are present at an even idex number
+Exercise 3 - Print characters from a string that are present at an even index number using range()
 
+Alternate Exercise 3 - Print characters from a string that are present at an even index number using list()
